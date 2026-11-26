@@ -77,3 +77,11 @@ frames[0].save(
 )
 
 print("🐱 cat-walk.gif 생성 완료!")
+
+<div align="center">
+
+# 🐱 Welcome to my GitHub!
+
+<img src="./cat-walk.gif" width="600" alt="Walking cat animation">
+
+### Thanks for visiting! ✨
