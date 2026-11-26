@@ -1,4 +1,5 @@
 # profile
+
 from PIL import Image, ImageDraw
 import math
 
@@ -75,6 +76,9 @@ frames[0].save(
     disposal=2,
     transparency=0
 )
+
+print("🐱 cat-walk.gif 생성 완료!")
+
 
 print("🐱 cat-walk.gif 생성 완료!")
 
